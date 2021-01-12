@@ -3,7 +3,6 @@ A DBMS which utilizes SQL to make an employee management system. The Program is 
 
 #What I Learned
 
-  * Utilization of different algorithms.
-  * Implication of STMP Mail Services.
-  * Handling of SQL.
-  * Reducing the code to a understandable extent.
+  * Uses of STMP Mail Services.
+  * SQL connections with Java
+ 
